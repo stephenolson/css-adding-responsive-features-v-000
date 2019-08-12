@@ -23,7 +23,8 @@
   }
 
   #logo h1 {
-    height
+    height: 35px;
+    width: 35px;
   }
 
 }
